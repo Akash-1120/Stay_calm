@@ -1,2 +1,4 @@
 # Stay_calm
-my first repo where i am learning - By Akash 
+my first repo where i am learning 
+<br>
+By Akash 
